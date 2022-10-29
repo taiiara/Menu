@@ -1,5 +1,5 @@
 # Menu interativo versão 1.0
-# Por Taiara Regis
+# Por Taiiara
 
 escolha = ''
 
